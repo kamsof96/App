@@ -8,3 +8,4 @@
 
 **this text is bold**
 **this is _important_ text**
+<sub>this is sub text</sub>
