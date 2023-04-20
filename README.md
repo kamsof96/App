@@ -7,3 +7,4 @@
 *this text is italic*
 
 **this text is bold**
+**this is _important_ text**
