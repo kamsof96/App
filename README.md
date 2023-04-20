@@ -11,3 +11,5 @@
 **this is _important_ text**
 <sub>this is sub text</sub>
 <sup>this is sup text</sup>
+
+***this text is all important***
