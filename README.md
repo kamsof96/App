@@ -4,4 +4,4 @@
 
 # create the first main project
 
-*this text is bold*
+*this text is italic*
